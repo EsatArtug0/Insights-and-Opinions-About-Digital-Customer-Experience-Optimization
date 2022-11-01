@@ -3,6 +3,7 @@ Insights and opinions about digital customer experience optimization, personaliz
 
 ## Personalization
 * 7 Effective Ways of Website Content Personalization to Create Compelling Customer Experiences
+* [Using Website Personalization for Effective Account-Based Marketing] (https://ninetailed.io/blog/account-based-marketing-personalization/)
 
 ## Segmentation
 * [6 Effective Behavioral Segmentation Tactics You Can Start Using on Your Business](https://ninetailed.io/blog/effective-behavioral-segmentation-tactics/)
