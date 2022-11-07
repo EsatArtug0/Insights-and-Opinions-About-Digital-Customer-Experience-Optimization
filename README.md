@@ -5,6 +5,8 @@ Insights and opinions about digital customer experience optimization, personaliz
 * ### 7 Effective Ways of Website Content Personalization to Create Compelling Customer Experiences
 * ### [Using Website Personalization for Effective Account-Based Marketing](https://ninetailed.io/blog/account-based-marketing-personalization/)
 In this blog post, you’ll explore the basics of account-based marketing personalization and discuss some of the benefits you can expect from using it. You’ll also explore tips for getting started with your own account-based marketing personalization strategy.
+* ### [Profitable Growth: 4 Ways Personalization Can Accelerate Profitability During a Downturn](https://ninetailed.io/blog/profitable-growth/)
+One way to accelerate profitable growth is to focus on personalization. Providing personalization is essential for winning and retaining customers.
 
 ## Segmentation
 * ### [6 Effective Behavioral Segmentation Tactics You Can Start Using on Your Business](https://ninetailed.io/blog/effective-behavioral-segmentation-tactics/)
