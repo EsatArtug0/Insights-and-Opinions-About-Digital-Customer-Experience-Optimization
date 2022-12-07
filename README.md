@@ -13,7 +13,8 @@ One way to accelerate profitable growth is to focus on personalization. Providin
 This article covers the basics of behavioral segmentation and how businesses can use these strategies to reach their business goals.
 
 ## Experimentation
-* ### Customer Experience Optimization: Everything You Need to Know About
+* ### [Customer Experience Optimization: Everything You Need to Know About](https://ninetailed.io/blog/customer-experience-optimization/)
+In this blog post, we'll discuss what customer experience optimization is and some methods you can use to optimize your customer experience to increase engagement and loyalty across your customer base.
 * ### [Headline Testing: How to Find Engaging Headlines with A/B Testing to Get More Leads](https://ninetailed.io/blog/headline-testing-with-ab-testing/)
 "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar - David Ogilvy." If you’re not already using A/B testing for your headlines, now is the time to start. It’s a simple and effective way to fine-tune your headlines and make sure they are engaging and persuasive.
 
