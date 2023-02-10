@@ -18,9 +18,12 @@ In this blog post, we'll discuss what customer experience optimization is and so
 * ### [Headline Testing: How to Find Engaging Headlines with A/B Testing to Get More Leads](https://ninetailed.io/blog/headline-testing-with-ab-testing/)
 "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar - David Ogilvy." If you’re not already using A/B testing for your headlines, now is the time to start. It’s a simple and effective way to fine-tune your headlines and make sure they are engaging and persuasive.
 
-## MACH Architecture
+## Composable & MACH Architecture
 * ### [A Comprehensive Guide to MACH Architecture in 2023](https://ninetailed.io/blog/everything-about-mach-architecture/)
 In this comprehensive guide, we'll look at MACH architecture, how it works, and what benefits it can offer your business in 2023. Whether you're just starting out with MACH architecture or you're looking to expand your knowledge base, this guide has everything you need to get up to speed.
+* ### [Composable Architecture: Everything You Need to Know About Composability](https://ninetailed.io/blog/composable-architecture/)
+If you're interested in learning more about composable architecture and how it can help you build better solutions faster, this post is for you. In this blog post, you'll explore everything you need to know about composable architecture.
+
 
 ## JAMstack
 * ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
