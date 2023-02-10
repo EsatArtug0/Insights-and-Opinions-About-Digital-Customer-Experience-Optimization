@@ -19,6 +19,14 @@ One way to accelerate profitable growth is to focus on personalization. Providin
 * ### [58 Personalization Statistics & Facts for 2023 You Shouldn’t Ignore]
 * ### [44 E-commerce Personalization Statistics to Inform Your 2023 Strategy]
 * ### [9 Exciting Personalization Trends to Watch for in 2023]
+* ### [You Need a Headless CMS for the True Personalization]
+* ### [PaaS: Everything You Need to Know About Personalization as a Service]
+* ### [11 Personalization Books You Need to Read to Understand Customer Experience Better]
+* ### [Best 13 Podcast Episodes About Personalization]
+* ### [Omnichannel Personalization: A Comprehensive Guide to Get Started]
+* ### [5 Reasons You Need to Start E-commerce Personalization on Your Online Store]
+* ### [The Best Website Personalization Tool for Composable MACH Architecture]
+* ### [Amazon: The King of E-commerce and Personal Recommendations]
 
 ## Segmentation
 * ### [6 Effective Behavioral Segmentation Tactics You Can Start Using on Your Business](https://ninetailed.io/blog/effective-behavioral-segmentation-tactics/)
@@ -35,6 +43,7 @@ In this blog post, we'll discuss what customer experience optimization is and so
 * ### [7 Exciting Customer Experience (CX) Trends to Watch for in 2023]
 * ### [Customer Experience Optimization: Everything You Need to Know About]
 * ### [71 Customer Experience Statistics & Facts for 2023 You Can’t Ignore]
+* ### [Best 32 Customer Experience (CX) Podcasts You Can Listen in 2023]
 
 ## Composable & MACH Architecture
 * ### [A Comprehensive Guide to MACH Architecture in 2023](https://ninetailed.io/blog/everything-about-mach-architecture/)
@@ -46,6 +55,9 @@ Microservices orchestration has become an essential part of the modern tech stac
 * ### [The Relationship Between Experimentation and Personalization for Customer Experience Optimization]
 * ### [Why Digital Builders Are Switching to MACH-First Solutions]
 * ### [Monolithic vs. Microservices Architecture: Everything You Need to Know in 2023]
+* ### [Growing the MACH Architecture Ecosystem, One Microservice at a Time]
+* ### [Microservices vs. APIs: Relationship and Differences Between Them]
+* ### [Headless Commerce vs. Composable Commerce: Side-by-Side Comparison]
 
 ## JAMstack
 * ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
