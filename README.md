@@ -27,11 +27,15 @@ One way to accelerate profitable growth is to focus on personalization. Providin
 * ### [5 Reasons You Need to Start E-commerce Personalization on Your Online Store]
 * ### [The Best Website Personalization Tool for Composable MACH Architecture]
 * ### [Amazon: The King of E-commerce and Personal Recommendations]
+* ### [Build a Personalized Chatbot With GatsbyJS, Contentful, and Ninetailed]
+* ### [Make Personalized Web Content Fast and Easier with Vercel Edge Functions]
+* ### [Integrating Personalization Into High Performance Stacks]
 
 ## Segmentation
 * ### [6 Effective Behavioral Segmentation Tactics You Can Start Using on Your Business](https://ninetailed.io/blog/effective-behavioral-segmentation-tactics/)
 This article covers the basics of behavioral segmentation and how businesses can use these strategies to reach their business goals.
 * ### [Everything You Need to Know About Segmentation in 2023 [With Examples]]
+* ### [4 Simple Firmographic Segmentation Strategies to Effectively Target Your Audience]
 
 ## Experimentation & A/B Testing
 * ### [Customer Experience Optimization: Everything You Need to Know About](https://ninetailed.io/blog/customer-experience-optimization/)
@@ -45,6 +49,7 @@ In this blog post, we'll discuss what customer experience optimization is and so
 * ### [Customer Experience Optimization: Everything You Need to Know About]
 * ### [71 Customer Experience Statistics & Facts for 2023 You Can’t Ignore]
 * ### [Best 32 Customer Experience (CX) Podcasts You Can Listen in 2023]
+* ### [13 Best E-commerce Books Every Online Seller Needs to Read in 2023]
 
 ## Composable & MACH Architecture
 * ### [A Comprehensive Guide to MACH Architecture in 2023](https://ninetailed.io/blog/everything-about-mach-architecture/)
@@ -61,6 +66,7 @@ Microservices orchestration has become an essential part of the modern tech stac
 * ### [Headless Commerce vs. Composable Commerce: Side-by-Side Comparison]
 * ### [Common Barriers to Account-Based Marketing Personalization (And How to Overcome Them)]
 * ### [Using Website Personalization for Effective Account-Based Marketing]
+* ### [How Headless Commerce Can Change Online Sales]
 
 ## JAMstack
 * ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
@@ -70,6 +76,7 @@ Angular and React are two of the most popular JavaScript frameworks used for web
 * ### [Flutter vs. React Native: Everything You Need to Know]
 * ### [React vs. React Native: Key Differences, Advantages, and Disadvantages]
 * ### [9 Best JavaScript Frameworks to Use in 2022]
+* ### [Next.js vs React: The Difference and Which Framework to Choose]
 
 ## Digital Transformation
 * ### [Importance of Digital Transformation: Benefits, Challenges, and Examples](https://ninetailed.io/blog/importance-of-digital-transformation/)
