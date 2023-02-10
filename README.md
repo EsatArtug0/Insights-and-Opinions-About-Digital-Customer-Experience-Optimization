@@ -23,13 +23,15 @@ In this blog post, we'll discuss what customer experience optimization is and so
 In this comprehensive guide, we'll look at MACH architecture, how it works, and what benefits it can offer your business in 2023. Whether you're just starting out with MACH architecture or you're looking to expand your knowledge base, this guide has everything you need to get up to speed.
 * ### [Composable Architecture: Everything You Need to Know About Composability](https://ninetailed.io/blog/composable-architecture/)
 If you're interested in learning more about composable architecture and how it can help you build better solutions faster, this post is for you. In this blog post, you'll explore everything you need to know about composable architecture.
-* [Why Is Microservices Orchestration Becoming More Important in Modern Tech Stack](https://ninetailed.io/blog/microservices-orchestration/)
+* ### [Why Is Microservices Orchestration Becoming More Important in Modern Tech Stack](https://ninetailed.io/blog/microservices-orchestration/)
 Microservices orchestration has become an essential part of the modern tech stack. Find out why and see how it can benefit your organization.
 
 ## JAMstack
 * ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
 While it's common for people new to the field of web development to confuse these distinct technologies, the goal of this article is to provide you with sufficient knowledge about each technology, their similarities, differences, advantages and disadvantages, and their possible use cases. By the end of this article, you should have a good understanding of React and Node.js and when to use them in your projects.
+* ### [Angular vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/angular-vs-react/)
+Angular and React are two of the most popular JavaScript frameworks used for web and mobile application development, according to data from the JAMstack community survey 2022. They are powerful tools for creating efficient applications and have advantages and disadvantages. This article will discuss the differences between the two frameworks and provide guidance on which one to choose when. This post will also look at some of the advantages and disadvantages of each framework and their main features.
 
 ## Digital Transformation
-* [Importance of Digital Transformation: Benefits, Challenges, and Examples](https://ninetailed.io/blog/importance-of-digital-transformation/)
+* ### [Importance of Digital Transformation: Benefits, Challenges, and Examples](https://ninetailed.io/blog/importance-of-digital-transformation/)
 In this post, you'll explore the importance of digital transformation and the various benefits it can offer, as well as learn some challenges associated with it and have examples of successful implementation across industries.
