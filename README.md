@@ -21,3 +21,9 @@ In this blog post, we'll discuss what customer experience optimization is and so
 ## MACH Architecture
 * ### [A Comprehensive Guide to MACH Architecture in 2023](https://ninetailed.io/blog/everything-about-mach-architecture/)
 In this comprehensive guide, we'll look at MACH architecture, how it works, and what benefits it can offer your business in 2023. Whether you're just starting out with MACH architecture or you're looking to expand your knowledge base, this guide has everything you need to get up to speed.
+
+## JAMstack
+* ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
+While it's common for people new to the field of web development to confuse these distinct technologies, the goal of this article is to provide you with sufficient knowledge about each technology, their similarities, differences, advantages and disadvantages, and their possible use cases. By the end of this article, you should have a good understanding of React and Node.js and when to use them in your projects.
+
+
