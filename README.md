@@ -33,11 +33,12 @@ One way to accelerate profitable growth is to focus on personalization. Providin
 This article covers the basics of behavioral segmentation and how businesses can use these strategies to reach their business goals.
 * ### [Everything You Need to Know About Segmentation in 2023 [With Examples]]
 
-## Experimentation
+## Experimentation & A/B Testing
 * ### [Customer Experience Optimization: Everything You Need to Know About](https://ninetailed.io/blog/customer-experience-optimization/)
 In this blog post, we'll discuss what customer experience optimization is and some methods you can use to optimize your customer experience to increase engagement and loyalty across your customer base.
 * ### [Headline Testing: How to Find Engaging Headlines with A/B Testing to Get More Leads](https://ninetailed.io/blog/headline-testing-with-ab-testing/)
 "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar - David Ogilvy." If you’re not already using A/B testing for your headlines, now is the time to start. It’s a simple and effective way to fine-tune your headlines and make sure they are engaging and persuasive.
+* ### [How to Increase Conversion Rates with A/B Testing]
 
 ## Customer Experience
 * ### [7 Exciting Customer Experience (CX) Trends to Watch for in 2023]
@@ -58,6 +59,8 @@ Microservices orchestration has become an essential part of the modern tech stac
 * ### [Growing the MACH Architecture Ecosystem, One Microservice at a Time]
 * ### [Microservices vs. APIs: Relationship and Differences Between Them]
 * ### [Headless Commerce vs. Composable Commerce: Side-by-Side Comparison]
+* ### [Common Barriers to Account-Based Marketing Personalization (And How to Overcome Them)]
+* ### [Using Website Personalization for Effective Account-Based Marketing]
 
 ## JAMstack
 * ### [Node vs. React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/node-js-vs-react-js/)
@@ -66,6 +69,7 @@ While it's common for people new to the field of web development to confuse thes
 Angular and React are two of the most popular JavaScript frameworks used for web and mobile application development, according to data from the JAMstack community survey 2022. They are powerful tools for creating efficient applications and have advantages and disadvantages. This article will discuss the differences between the two frameworks and provide guidance on which one to choose when. This post will also look at some of the advantages and disadvantages of each framework and their main features.
 * ### [Flutter vs. React Native: Everything You Need to Know]
 * ### [React vs. React Native: Key Differences, Advantages, and Disadvantages]
+* ### [9 Best JavaScript Frameworks to Use in 2022]
 
 ## Digital Transformation
 * ### [Importance of Digital Transformation: Benefits, Challenges, and Examples](https://ninetailed.io/blog/importance-of-digital-transformation/)
