@@ -35,3 +35,5 @@ Angular and React are two of the most popular JavaScript frameworks used for web
 ## Digital Transformation
 * ### [Importance of Digital Transformation: Benefits, Challenges, and Examples](https://ninetailed.io/blog/importance-of-digital-transformation/)
 In this post, you'll explore the importance of digital transformation and the various benefits it can offer, as well as learn some challenges associated with it and have examples of successful implementation across industries.
+* ### [Enterprise Digital Transformation: Personalization, Composability, and More](https://ninetailed.io/blog/enterprise-digital-transformation/)
+In this blog post, you’ll dive into innovative techniques, benefits, and challenges that modern enterprises should consider when transforming their business digitally.
