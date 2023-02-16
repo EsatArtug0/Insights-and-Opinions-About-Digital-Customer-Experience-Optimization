@@ -43,6 +43,8 @@ In this blog post, we'll discuss what customer experience optimization is and so
 * ### [Headline Testing: How to Find Engaging Headlines with A/B Testing to Get More Leads](https://ninetailed.io/blog/headline-testing-with-ab-testing/)
 "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar - David Ogilvy." If you’re not already using A/B testing for your headlines, now is the time to start. It’s a simple and effective way to fine-tune your headlines and make sure they are engaging and persuasive.
 * ### [How to Increase Conversion Rates with A/B Testing]
+* ### [Four Benefits of cComposable A/B Testing with Ninetailed and Contentful](https://www.contentful.com/blog/four-benefits-composable-a-b-testing-with-ninetailed/)
+In this post, we’ll explore four benefits of using Ninetailed and Contentful together for composable A/B testing.
 
 ## Customer Experience
 * ### [7 Exciting Customer Experience (CX) Trends to Watch for in 2023]
