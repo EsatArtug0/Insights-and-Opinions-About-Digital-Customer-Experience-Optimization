@@ -57,7 +57,7 @@ In this post, we’ll explore four benefits of using Ninetailed and Contentful t
 * ### [A Comprehensive Guide to MACH Architecture in 2023](https://ninetailed.io/blog/everything-about-mach-architecture/)
 In this comprehensive guide, we'll look at MACH architecture, how it works, and what benefits it can offer your business in 2023. Whether you're just starting out with MACH architecture or you're looking to expand your knowledge base, this guide has everything you need to get up to speed.
 * ### [Composable Architecture: Everything You Need to Know About Composability](https://ninetailed.io/blog/composable-architecture/)
-If you're interested in learning more about composable architecture and how it can help you build better solutions faster, this post is for you. In this blog post, you'll explore everything you need to know about composable architecture.
+If you're interested in learning more about [composable architecture](https://ninetailed.io/blog/composable-architecture/) and how it can help you build better solutions faster, this post is for you. In this blog post, you'll explore everything you need to know about composable architecture.
 * ### [Why Is Microservices Orchestration Becoming More Important in Modern Tech Stack](https://ninetailed.io/blog/microservices-orchestration/)
 Microservices orchestration has become an essential part of the modern tech stack. Find out why and see how it can benefit your organization.
 * ### [The Relationship Between Experimentation and Personalization for Customer Experience Optimization]
