@@ -10,7 +10,7 @@ One way to accelerate profitable growth is to focus on personalization. Providin
 * ### [7 B2B Personalization Examples for SaaS Businesses]
 * ### [A Starter Guide to E-commerce Personalization in 2023]
 * ### [How to Choose the Right Personalization Tool for Your Business in 2023]
-* ### [The Ultimate Guide to Getting Started with Personalization [in 2023]] (https://ninetailed.io/blog/personalization-guide/)
+* ### [The Ultimate Guide to Getting Started with Personalization](https://ninetailed.io/blog/personalization-guide/)
 In this post, we'll cover everything you need to know about personalization: what personalization is and is NOT, the benefits of personalization, how to get started with personalization, personalization types, personalization and privacy paradox, and the future of personalization. 
 * ### [8 Questions to Ask Before You Choose Your Personalization Tool]
 * ### [9 Common Personalization Challenges (And How to Overcome Them)]
